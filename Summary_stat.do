@@ -3,7 +3,7 @@
 ****** SUMMARY STATISTICS *****************
 *****************************************
 *** PPVT***
-cd "D:\1.RESEARK\9.THESIS materials\thesis\data""
+cd "D:\YL\data""
 
 
 use "yc_panel.dta",clear

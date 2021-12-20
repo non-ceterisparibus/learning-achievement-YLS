@@ -19,7 +19,7 @@ set more off
 set seed 17838276                          //Set seed to replicate bootstrap
 
 * Load data
-cd  "D:\1.RESEARK\9.THESIS materials\thesis\data"    //Adapt this path!
+cd  "D:\YL\data"    //Adapt this path!
 use "yc35_panel.dta", clear
 
 

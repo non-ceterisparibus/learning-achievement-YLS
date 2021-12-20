@@ -10,7 +10,7 @@
 clear 
 set more off
 // set mem 600m
-cd "D:/1.RESEARK/9.THESIS materials/thesis/data"
+cd "D:\YL\data"
 
 /*-----------------------------------------------------------------------------*
 					   COMMUNE - TYPESITE

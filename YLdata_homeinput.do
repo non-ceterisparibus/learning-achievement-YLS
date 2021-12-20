@@ -40,7 +40,7 @@ set more off
 *  Directories
 // global pfad1 `""D:\1.RESEARK\9.THESIS materials\thesis\YLdata""'        //directory of original data 
 // global pfad2 `""D:\1.RESEARK\9.THESIS materials\thesis\data""'       //working directory
-cd "D:/1.RESEARK/9.THESIS materials/thesis/data"
+cd "D:\YL\data"
 
 /*-----------------------------------------------------------------------------*
 					   CHILD MOBILITY
