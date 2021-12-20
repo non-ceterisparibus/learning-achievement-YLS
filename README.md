@@ -12,10 +12,10 @@ Given the recent tremendous expansion of the public educational system in Vietna
 
 
 ## Folder Content
-    * YLdata_homeinput              : data processing for home input variables
-    * YLdata_schinputs              : data processing for school input variables
-    * YLdata_testcore               : testscore and education history
-    * YLdata_paneldesc_childlevel   : data description
-    * Summary_stat                  : Statistic summary tables for home inputs and school inputs 
-    * YLdata_childFE                : Fixed-effects model
-    * Notebook                      : Short version of the paper
+    * YLdata_homeinput  : data processing for home input variables
+    * YLdata_schinputs  : data processing for school input variables
+    * YLdata_testcore   : testscore and education history
+    * YLdata_paneldesc  : data description
+    * Summary_stat      : Statistic summary tables for home inputs and school inputs 
+    * YLdata_childFE    : Fixed-effects model
+    * Notebook          : Short version of the paper
