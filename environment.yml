@@ -1,0 +1,14 @@
+name: student_project
+
+dependencies:
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scipy
+- plotly
+- statsmodels
+- pip
+- pip:
+    - econtools
+
