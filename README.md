@@ -16,8 +16,8 @@ This paper contributes to the studying of child’s cognitive accumulation in de
 
 
 ## Folder Content
-    * YLdata_homeinput  : data processing for home input variables
-    * YLdata_schinputs  : data processing for school input variables
+    * YLdata_homeinput  : data manipulation home input variables
+    * YLdata_schinputs  : data manipulation school input variables
     * YLdata_testcore   : testscore and education history
     * YLdata_paneldesc  : data description
     * Summary_stat      : Statistic summary tables for home inputs and school inputs 
