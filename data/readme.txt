@@ -1,5 +1,5 @@
 Unfortunately, because of agreements with various data collection
-agencies we are unable to directly post the data that were used to
+agencies I am unable to directly post the data that were used to
 create the estimations that appear in our paper. The data came from
 a number of different sources. Instructions for accessing data from
 each source appear below. Researchers may be required to obtain a
