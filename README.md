@@ -22,4 +22,4 @@ This paper contributes to the studying of child’s cognitive accumulation in de
     * YLdata_paneldesc  : data description
     * Summary_stat      : Statistic summary tables for home inputs and school inputs 
     * YLdata_childFE    : Fixed-effects model
-    * Notebook          : Short version of the paper
+    * Notebook          : Data Analysis and Visualization
